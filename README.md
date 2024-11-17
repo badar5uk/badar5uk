@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-- I am a a trainee in Telecommunications Regulation Agency, currenctly learning Java for full stack dev.
+- I am a a trainee in Telecommunications Regulatory Agency, currenctly learning Java for full stack dev.
 - Working on getting cloud practioner certification
 
 
