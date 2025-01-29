@@ -3,13 +3,14 @@
 
 ## 🚀 About Me
 
-- I am a a trainee in Telecommunications Regulatory Agency, currenctly learning Java for full stack dev.
+- I am a a trainee at Telecommunications Regulatory Agency, Oman
+- I have done JAVA, JS and Springboot
 - Working on getting cloud practioner certification
 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,python,arduino,aws,idea,ai,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,arduino,aws,idea,spring,ai,ps)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
