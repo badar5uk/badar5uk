@@ -29,7 +29,6 @@
 
 ## 🌱 Currently Exploring
 
-- Angular
-- Typescript
-- OTP Generation and validation
 - AI
+- Game dev
+- Angular
